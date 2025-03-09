@@ -1,4 +1,4 @@
-# AvaLabs Test Assignment
+# AvaLabs
 
 Installation steps to run server locally
 
